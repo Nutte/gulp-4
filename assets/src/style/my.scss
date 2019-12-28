@@ -1,0 +1,8 @@
+*{
+    &:hover{
+        text-decoration: none;
+    }
+    @include md(){
+        text-decoration: none;
+    }
+}
